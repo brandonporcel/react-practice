@@ -1,5 +1,9 @@
 # React Practice
 
-```
-hola
-```
+- Chakra
+- Portals
+- Css Modules
+- useReducer, useMemo, useCallback
+- Custom Hooks
+- Reduce
+
