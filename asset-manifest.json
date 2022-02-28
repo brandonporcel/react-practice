@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-practice/static/css/main.c34bbfed.css",
-    "main.js": "/react-practice/static/js/main.ea19b62d.js",
+    "main.js": "/react-practice/static/js/main.490969c7.js",
     "static/js/787.7bccd639.chunk.js": "/react-practice/static/js/787.7bccd639.chunk.js",
     "static/media/urban-line-404-1.png": "/react-practice/static/media/urban-line-404-1.48983680112da054ba2b.png",
     "static/media/heart-icon.png": "/react-practice/static/media/heart-icon.52c728399ce5b8eb1620.png",
     "index.html": "/react-practice/index.html",
     "static/media/colors.JSON": "/react-practice/static/media/colors.e4118b19633f962beab8.JSON",
     "main.c34bbfed.css.map": "/react-practice/static/css/main.c34bbfed.css.map",
-    "main.ea19b62d.js.map": "/react-practice/static/js/main.ea19b62d.js.map",
+    "main.490969c7.js.map": "/react-practice/static/js/main.490969c7.js.map",
     "787.7bccd639.chunk.js.map": "/react-practice/static/js/787.7bccd639.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c34bbfed.css",
-    "static/js/main.ea19b62d.js"
+    "static/js/main.490969c7.js"
   ]
 }
