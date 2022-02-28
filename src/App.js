@@ -1,5 +1,5 @@
 import { ChakraProvider } from '@chakra-ui/react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Colors from './components/Colors';
 import Form from './components/Form';
 import Home from './components/Home';
@@ -9,7 +9,7 @@ import Portals from './components/Portals';
 function App() {
 	return (
 		<ChakraProvider>
-			<Router>
+			<HashRouter>
 				<Routes>
 					<Route path="/" element={<Home />}></Route>
 					<Route path="/colors" element={<Colors />}></Route>
@@ -17,7 +17,7 @@ function App() {
 					<Route path="/portals" element={<Portals />}></Route>
 					<Route path="*" element={<NotFound />}></Route>
 				</Routes>
-			</Router>
+			</HashRouter>
 		</ChakraProvider>
 	);
 }
