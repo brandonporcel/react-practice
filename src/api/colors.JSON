@@ -1,0 +1,30 @@
+[
+	{
+		"name": "green",
+		"type": "cold"
+	},
+	{
+		"name": "blue",
+		"type": "cold"
+	},
+	{
+		"name": "indigo",
+		"type": "cold"
+	},
+	{
+		"name": "violet",
+		"type": "warm"
+	},
+	{
+		"name": "red",
+		"type": "warm"
+	},
+	{
+		"name": "orange",
+		"type": "warm"
+	},
+	{
+		"name": "yellow",
+		"type": "warm"
+	}
+]

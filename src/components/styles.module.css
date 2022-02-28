@@ -1,0 +1,23 @@
+.heart {
+	background-image: url('../images/heart-icon.png');
+	background-size: auto 50px;
+	cursor: pointer;
+	height: 50px;
+	width: 50px;
+	display: block;
+}
+.heartAnimation {
+	animation: heart-beat 0.8s steps(28) 1 forwards;
+	background-position-x: -13px;
+}
+@keyframes heart-beat {
+	from {
+		background-position: left;
+	}
+	to {
+		background-position: right;
+	}
+}
+.underline {
+	text-decoration: underline;
+}

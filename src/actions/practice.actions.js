@@ -1,0 +1,4 @@
+export const TYPES = {
+	READ_ITEMS: 'READ_ITEMS',
+	READ_COLORS_TYPE: 'READ_COLORS_TYPE',
+};
